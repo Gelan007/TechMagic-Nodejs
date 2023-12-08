@@ -1,0 +1,13 @@
+{
+  "name": "most-repeated-letter-techmagic",
+  "type": "commonjs",
+  "version": "1.0.0",
+  "description": "simple project to find the most repeated letter ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "find-repeated-letter": "node index.js"
+  },
+  "author": "Anatolii Filipenko",
+  "license": "ISC"
+}
